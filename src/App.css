@@ -1,0 +1,11 @@
+
+.btn-celeste {
+    background-color: #5ccfc7; /* Color celeste */
+    border-color: #87CEEB; /* Bordes del mismo color */
+    color: white; /* Color del texto */
+  }
+  
+  .btn-celeste:hover {
+    background-color: #76C3DA; /* Color más oscuro para el hover */
+    border-color: #76C3DA; /* Bordes del mismo color */
+  }

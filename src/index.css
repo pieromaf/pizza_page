@@ -1,0 +1,15 @@
+.navbar {
+  background: #5ccfc7;
+}
+
+.color {
+  color: #fbf9f4;
+}
+
+.decoration {
+  text-decoration: none;
+}
+
+body {
+  background-image: url("/public/pizzaa.jpeg");
+}
